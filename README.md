@@ -2,6 +2,8 @@
 created by Marco Mata with incredible amounts of help from Frank's Laboratory.
 Here is his twitter: https://twitter.com/code_laboratory
 
+![image](https://user-images.githubusercontent.com/101440634/223465033-e88bfe2e-1753-4568-a39d-81f4841b2c01.png)
+
 ## Table of Contents
 1. [Description](#description)
 2. [Built-with](#built-with)
@@ -19,7 +21,7 @@ This application was built using HTML, CSS, & JavaScript.
 Contact me if you would like to add to this project! Any help is always appreciated!
 
 ## Usage
-Live website:
+Live website: https://itsmarcotime.github.io/javascript-2d-game/
 
 ## Contact
 Questions? <br /> 
